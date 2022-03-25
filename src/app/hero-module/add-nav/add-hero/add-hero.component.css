@@ -1,0 +1,35 @@
+
+.form-add{
+  border: 5px double #f1f1f100;
+}
+.add-hero
+.go-back
+{
+  display: block;
+  width: 150px;
+  box-sizing: border-box;
+}
+.go-back:hover{
+  background-color: rgb(77, 69, 69);
+  color: rgb(255, 255, 255);
+}
+.add-hero:hover{
+  background-color: rgb(77, 69, 69);
+  color: rgb(255, 255, 255);
+}
+input {
+  color: rgb(156, 155, 155);
+}
+#hero-birth
+{
+  color: black;
+}
+textarea{
+  resize: none;
+}
+button
+{
+  width: 100px;
+  height: 50px;
+  margin: 10px 10px 10px 10px;
+}
